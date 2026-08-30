@@ -1,0 +1,6 @@
+{
+  "name": "Doce Desejo - Confeitaria Artesanal",
+  "description": "Landing page e cardápio digital interativo para confeitaria artesanal com pedidos diretos via WhatsApp e encomendas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
